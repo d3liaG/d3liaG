@@ -37,3 +37,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+###
+
+<h3 data-importer="text" align="left">What I'm Up To</h3>
+
+###
+
+<p data-importer="text" align="left">- 🔭 **Currently working on:** Developing full-stack projects, including a real-time guitar tuner app for Android and the Web.<br>- 🌱 **Currently learning:** I am diving into Machine Learning and Data Science, exploring Python and PyTorch. <br>- 💻 **Tech Stack &  Projects** I worked on object-oriented applications in Java and handling databases with Oracle SQL. <br>- 🐧 **Environment:** Fedora Linux enthusiast.</p>
+
+###
+
+<h3 data-importer="text" align="left">Fun facts:</h3>
+
+###
+
+<p data-importer="text" align="left">- 🎸 I play the guitar (and love combining this with tech, like building my own Arduino-based multi-effects pedals!)<br>- 📚 I love reading<br>- ⛷️ I ski<br>- 🎨 I paint and draw</p>
+
+###
