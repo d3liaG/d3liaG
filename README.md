@@ -44,7 +44,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🔭 **Currently working on:** Developing full-stack projects, including a real-time guitar tuner app for Android and the Web.<br>- 🌱 **Currently learning:** I am diving into Machine Learning and Data Science, exploring Python and PyTorch. <br>- 💻 **Tech Stack &  Projects** I worked on object-oriented applications in Java and handling databases with Oracle SQL. <br>- 🐧 **Environment:** Fedora Linux enthusiast.</p>
+<p data-importer="text" align="left">- 🔭 **Currently working on:** Developing full-stack projects, including a real-time guitar tuner app for Android and the Web.<br>- 🌱 **Currently learning:** I am diving into Machine Learning and Data Science, exploring Python and PyTorch. <br>- 💻 **Tech Stack &  Projects** I worked on object-oriented applications in Java managed relational databases with Oracle SQL, and engineered low-level C/C++ network routines for handling raw HTTP requests and server communication. <br>- 🐧 **Environment:** Fedora Linux enthusiast.</p>
 
 ###
 
@@ -52,6 +52,6 @@
 
 ###
 
-<p data-importer="text" align="left">- 🎸 I play the guitar (and love combining this with tech, like building my own Arduino-based multi-effects pedals!)<br>- 📚 I love reading<br>- ⛷️ I ski<br>- 🎨 I paint and draw</p>
+<p data-importer="text" align="left">- 🎸 I play the guitar and enjoy rock music<br>- 📚 I love reading<br>- ⛷️ I ski<br>- 🎨 I paint and draw</p>
 
 ###
